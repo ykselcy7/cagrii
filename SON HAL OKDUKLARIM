@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çağrı | Okuduğum Kitaplar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container" style="margin-top: 40px; margin-bottom: 60px;">
+        <!-- Ana Sayfaya Dönüş Linki -->
+        <a href="index.html" class="back-link">
+            <span>←</span> Ana Sayfaya Dön
+        </a>
+        
+        <section class="section" style="margin-top: 25px;">
+            <h2 class="section-title">📚 Zihin Kütüphanesi & Okunanlar</h2>
+            
+            <div class="cards-grid">
+
+                <!-- 1. KİTAP: YÜKSELİŞ -->
+                <article class="card">
+                    <div>
+                        <h3>YÜKSELİŞ: SpaceX ve Elon Musk</h3>
+                        <p class="author-name">Yazar: Eric Berger</p>
+                        <p>Herkese selamlar! Bugün sizlere Elon Musk'ın SpaceX macerasını ve şirketin kuruluş yıllarındaki var olma mücadelesini anlatan kitaptan aldığım notlarla karşınızdayım.</p>
+                        <p>Kitap, SpaceX’in en başına, kimsenin Elon Musk’ı ciddiye almadığı günlere götürüyor. O dönemde uzay sektörü dev devlet kurumlarının elindeyken, Musk "bu iş daha ucuza yapılabilir" diyerek ortaya çıkıyor. Ancak Falcon 1 roketi arka arkaya üç kez patlıyor. Her başarısızlıkta hem finansal kaynaklar tükeniyor hem de moral ağır darbe alıyor.</p>
+                        <p>En çarpıcı kısım ise dördüncü fırlatma denemesi. Kasada para kalmamış, Musk servetini tüketmiş durumda. O fırlatma başarıyla sonuçlanıyor ve ardından gelen NASA sözleşmesi SpaceX’i hayatta tutuyor.</p>
+                        <p>Elon Musk’ı kusursuz bir efsane gibi değil, hataları olan ama asla pes etmeyen biri olarak resmetmesi kitabın en değerli tarafı.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                        <span class="date-stamp">Temmuz 2026</span>
+                    </div>
+                </article>
+
+                <!-- 2. KİTAP: DAHA ADİL BİR DÜNYA MÜMKÜN -->
+                <article class="card">
+                    <div>
+                        <h3>Daha Adil Bir Dünya Mümkün</h3>
+                        <p class="author-name">Yazar: Recep Tayyip Erdoğan</p>
+                        <p>Herkese selam! İlk kitap blog yazımda Cumhurbaşkanı Recep Tayyip Erdoğan'ın 210 sayfalık eserini inceliyorum.</p>
+                        <p>RTE, dünyadaki açlığa, sefalete ve küresel sorunlara değinmiş. BM'nin günümüzde hükmünün kalmamasına ve terörizme karşı Türkiye'nin mücadelesine dikkat çekiyor. Kitabın odağında ise meşhur <strong>"Dünya beşten büyüktür"</strong> söylemi yer alıyor.</p>
+                        <p>ABD, Fransa, Rusya, İngiltere ve Çin'den oluşan BM Güvenlik Konseyi daimi üyelerinin tüm dünyanın kaderini tayin etmesine karşı çıkarak bir reform ihtiyacını vurguluyor. Düşüncelerin makul ve doğru olduğu kanaatindeyim; keşke halkla birlikte öz eleştiri boyutuna da değinilseydi.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 3. KİTAP: SON CÜRET -->
+                <article class="card">
+                    <div>
+                        <h3>Son Cüret</h3>
+                        <p class="author-name">Yazar: Yılmaz Özdil</p>
+                        <p>Herkese selam! 'Mustafa Kemal' kitabının devamı niteliğindeki bu 445 sayfalık eseri iki günde bitirdim.</p>
+                        <p>Vatan toprakları dört bir yandan işgal altındayken bir çift mavi gözün dahiyane fikirleriyle bu ülkenin nasıl kurtulduğunu akıcı bir dille anlatıyor. Dedelerimizin neler çektiğini ve vatanın nasıl kurtarıldığını açıkça görüyorsunuz.</p>
+                        <blockquote class="quote-box">
+                            "Mütevazı bir odada, bir millet yaşasın diye ölmeyi göze alan kararı temsil ediyordu.. Ne saray, ne şöhret, ne herhangi bir kudret, onun o odadaki büyüklüğüne yaklaşamazdı."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 4. KİTAP: AKLIMLA DALGA GEÇME -->
+                <article class="card">
+                    <div>
+                        <h3>Aklımla Dalga Geçme</h3>
+                        <p class="author-name">Yazar: Fatih Portakal</p>
+                        <p>Neredeyse iki defa okuduğum bu kitapta gazeteci Fatih Portakal, 2013-2016 yılları arasında Türkiye'de yaşanan kritik süreçleri kağıda döküyor.</p>
+                        <p>Çözüm sürecinden basının bağımsızlığına, Soma maden faciasından 15 Temmuz darbe girişimine kadar pek çok olaya kendi özgür eleştirel penceresinden bakıyor. Yaşadığı baskılardan sonra Ege kıyılarına çekilme sürecini de anlatan samimi bir eser.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 5. KİTAP: FİKRİ HÜR VİCDANI HÜR -->
+                <article class="card">
+                    <div>
+                        <h3>Fikri Hür Vicdanı Hür</h3>
+                        <p class="author-name">Yazar: İsmail Küçükkaya</p>
+                        <p>İsmail Küçükkaya'nın kendi meslek hayatından başlayarak ülkemizde olan bitene ve gazetecilik mesleğinin zorluklarına değindiği sürükleyici bir kitap.</p>
+                        <p>Siyasi gündemin önemli kırılma noktalarına değinirken okumanın, sorgulamanın ve hakkını aramanın önemini vurguluyor. Bardağın dolu tarafına bakmayı öğreten umut verici bir eser.</p>
+                        <blockquote class="quote-box">
+                            "Cephede dahi kitap okuduğunu bildiğimiz bir liderin vizyonunu kavramak, onu tanımak, anlamak için bunu yapmamız gerekiyor."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 6. KİTAP: PEP GUARDIOLA -->
+                <article class="card">
+                    <div>
+                        <h3>Pep Guardiola: Oyunu Değiştiren Felsefe</h3>
+                        <p class="author-name">Yazar: Guillem Balagué</p>
+                        <p>Büyük beklentilerle aldığım bu kitap teknik taktikten ziyade Pep Guardiola'nın hayat felsefesine ve vizyonuna odaklanıyor.</p>
+                        <p>Çalışkan, mütevazı ve insanlara minnet duyan bir karakter. Barcelona'nın 2009-2013 yıllarındaki efsanevi başarısında onun vizyonunun ne denli belirleyici olduğu açıkça görülüyor.</p>
+                        <blockquote class="quote-box">
+                            "Kaybetmenin ne olduğunu öğrendim. Bu gerçekten acı verir. Yenilgi size tekrar ayağa kalkmayı ve kazanmanın ne kadar zor olduğunu öğretir."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 7. KİTAP: BAŞARISIZLIĞA ÖVGÜ -->
+                <article class="card">
+                    <div>
+                        <h3>Başarısızlığa Övgü</h3>
+                        <p class="author-name">Yazar: Mahfi Eğilmez</p>
+                        <p>Özellikle üniversiteye yeni başlayan arkadaşların kesinlikle okuması gereken bir rehber niteliğinde.</p>
+                        <p>Mahfi Hoca kendi zorlu eğitim ve çalışma hayatından örnekler vererek B ve C planlarının önemini, hata yapmaktan korkmamak gerektiğini ve objektif olabilmeyi anlatıyor.</p>
+                        <blockquote class="quote-box">
+                            "Yaşamı geriye çevirmek mümkün olmadığı için -keşke- sözcüğünün de fazlaca bir anlamı olmuyor."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 8. KİTAP: CEBİMDEKİ EKMEK KIRINTILARI -->
+                <article class="card">
+                    <div>
+                        <h3>Cebimdeki Ekmek Kırıntıları</h3>
+                        <p class="author-name">Yazar: Ercan Kesal</p>
+                        <p>Ercan Kesal'ın deneyimlerini, soru-cevap formatında hayatın bizden ve bizim hayattan ne istediğimizi sorguladığı kıymetli bir eser.</p>
+                        <p>Konfor alanından çıkmak, farklı atmosferleri solumak ve yaşamı tecrübe etmek üzerine kurulu, gençlere tavsiyeler içeren ufuk açıcı bir kitap.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 9. KİTAP: MUTLULUĞU SENDE BULAN SENİNDİR -->
+                <article class="card">
+                    <div>
+                        <h3>Mutluluğu Sende Bulan Senindir Ötesi Misafir</h3>
+                        <p class="author-name">Yazar: Hakan Mengüç</p>
+                        <p>Kişisel gelişim türündeki bu kitap üslubuyla insanı içine çekiyor. Vazgeçebilmeyi, hakiki mutluluğu ve geç kalmadan sevebilmeyi anlatıyor.</p>
+                        <blockquote class="quote-box">
+                            "İnsan kendine en çok, canını yakanları affetmek için bahane arayarak ihanet eder."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 10. KİTAP: TUTUNAMAYANLAR -->
+                <article class="card">
+                    <div>
+                        <h3>Tutunamayanlar</h3>
+                        <p class="author-name">Yazar: Oğuz Atay</p>
+                        <p>Selim'in intiharı sonrası Turgut'un iç dünyasındaki dönüşümleri, yalnızlığı ve hayata karşı duruşunu anlatan başyapıt.</p>
+                        <p>İnsanın kendi duygularına tercüman olan bu eser, toplumun kalıplarına uyamayan içsel varoluş mücadelesini muazzam biçimde ele alıyor.</p>
+                        <blockquote class="quote-box">
+                            "Kendini çözemeyen kişi, kendi dışında hiçbir sorunu çözemez."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 11. KİTAP: İNCE MEMED -->
+                <article class="card">
+                    <div>
+                        <h3>İnce Memed</h3>
+                        <p class="author-name">Yazar: Yaşar Kemal</p>
+                        <p>Bir Çukurovalı olarak toprağın ve sıcağın kokusunu hissederek okuduğum, ağalık düzenine ve haksızlığa başkaldıran Memed'in destansı hikâyesi.</p>
+                        <p>Ağanın baskılarına dayanamayıp dağa çıkan ve köylünün hakkı için mücadele eden İnce Memed, Türk edebiyatının en güçlü direniş simgelerinden biri.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 12. KİTAP: RAĞMENCİLER -->
+                <article class="card">
+                    <div>
+                        <h3>Rağmenciler</h3>
+                        <p class="author-name">Yazar: Mümin Sekman</p>
+                        <p>İnsanları 'saydıcılar' (sürekli bahaneler sunanlar) ve 'rağmenciler' (her şeye rağmen başaranlar) olarak ikiye ayıran ilham verici bir kitap.</p>
+                        <p>Şartlar ne olursa olsun kendi göbek bağını kendi kesenlerin ve hayallerinin peşinden gidenlerin hikayesi.</p>
+                        <blockquote class="quote-box">
+                            "'Yapamazsın' diyenlerden başka kaybedecek kimseniz yok."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 13. KİTAP: ERTELEME -->
+                <article class="card">
+                    <div>
+                        <h3>Erteleme</h3>
+                        <p class="author-name">Yazar: Timothy A. Pychyl</p>
+                        <p>Elektrik Elektronik Mühendisliği yoğunluğum arasında okuduğum, erteleme davranışını psikolojik ve bilimsel açıdan ele alan teknik bir eser.</p>
+                        <blockquote class="quote-box">
+                            "İyi olanı vicdanımızla seçmek mümkünken utanma nedeniyle kötüden kaçınmamız övülmemeli, hiç kimsenin olmadığı yerde de kötüden kaçınmak meziyet olsa gerek."
+                        </blockquote>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+                <!-- 14. KİTAP: İNSANCA VAROLMA SANATI -->
+                <article class="card">
+                    <div>
+                        <h3>İnsanca Varolma Sanatı</h3>
+                        <p class="author-name">Yazar: Rollo May</p>
+                        <p>Üniversite kütüphanesinden ödünç aldığım, insanı, aşkı, varoluşu ve sorgulamayı merkezine alan derin bir çalışma.</p>
+                        <p>Nietzsche'nin buhranlı dünyasından mitolojiye uzanan, insanın kendini tanıması için soru sorması gerektiğini hatırlatan özel bir eser.</p>
+                    </div>
+                    <div class="card-footer">
+                        <span class="tag book-tag">Okundu</span>
+                    </div>
+                </article>
+
+            </div>
+        </section>
+    </main>
+
+    <!-- ALT BİLGİ -->
+    <footer>
+        <p>© 2026 Çağrı - Tüm hakları saklıdır.</p>
+    </footer>
+
+</body>
+</html>
